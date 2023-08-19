@@ -1,2 +1,2 @@
 # AWS EMR
-[Enough for Batch with EMR](enough.md)
+[Enough for Batch with EMR](enough-batch.md)
