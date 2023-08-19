@@ -1,6 +1,10 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+      <a href="{{ site.github.url }}">
+        <img alt="Zipkin logo" src="{{ site.github.url }}/public/img/logo_png/zipkin_vertical_grey_gb.png"
+             class="sidebar-logo">
+      </a>
       {% for link in site.data.sidebar_links %}
       <a href="{{ link.url }}" target="_blank" title="{{ link.text }}">
         <img class="sidebar-social-icon" alt="{{ link.text }}" src="{{ site.github.url }}/public/img/{{ link.img }}">
