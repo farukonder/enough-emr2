@@ -1,15 +1,9 @@
-title: OpenZipkin
+title: Enough
 
-tagline: A distributed tracing system
+tagline: Thats enough cloud for today
 
 description: >
-  Zipkin is a distributed tracing system. It helps gather timing data needed to
-  troubleshoot latency problems in microservice architectures.
-
-twitter_username: zipkinproject
-github_username:  openzipkin
-
-url: https://zipkin.io
+  End to end solutions for topics
 
 defaults:
   -
