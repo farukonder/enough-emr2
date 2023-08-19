@@ -18,7 +18,8 @@ The nature of logging data on Elasticsearch is convenient for putting as data pr
 
 In the upcoming series, the plan might vary, but for now, let's begin by outlining and implementing a solution, illustrated as follows:
 
-![solution overview](./public/content/content.drawio.png)
+![solution overview](/public/content/content.drawio.png)
+
 
 ## why spark
 first, I was considering to use Airflow. Apache Airflow is a very good solution for extract(E) and load(L) types of operations. As can be seen most of the operators are using local file system during data transfer as hop point. 
@@ -128,7 +129,7 @@ docker exec -it local-spark-1  bash
 ```
 
 after that you can experience with Spark locally.
-![loca spark](./public/content/loca-spark-1.png)
+![loca spark](/public/content/loca-spark-1.png)
 
 ## run on emr
 
@@ -213,7 +214,7 @@ cd job-spark-scala-1
 ```
 
 check the virtual cluster if app is submitted and running. 
-![virtual cluster jobs](./public/content/emr-jobs.png)
+![virtual cluster jobs](/public/content/emr-jobs.png)
 
 in case an issue during job you would check the details with describe command
 
