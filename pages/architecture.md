@@ -1,6 +1,7 @@
 ---
 title: Architecture
 weight: 2
+layout: post
 ---
 
 Architecture Overview
