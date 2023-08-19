@@ -2,7 +2,7 @@
 title: Zipkin Community
 ---
 
-[deneme](./architecture.md)
+[deneme](./sub-pages/architecture.md)
 
 Zipkin is a tracing system originally created by Twitter and is currently run by
 the OpenZipkin volunteer organization.
