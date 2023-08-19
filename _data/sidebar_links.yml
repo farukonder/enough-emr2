@@ -1,0 +1,12 @@
+- url: https://github.com/openzipkin/zipkin
+  text: "openzipkin/zipkin"
+  img: GitHub-Mark-Light-120px-plus.png
+
+- url: https://twitter.com/zipkinproject
+  text: "@zipkinproject"
+  img: TwitterLogo_white.png
+
+- url: https://gitter.im/openzipkin/zipkin/
+  text: "openzipkin/zipkin"
+  img: gitter.png
+
