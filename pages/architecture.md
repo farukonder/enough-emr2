@@ -2,6 +2,7 @@
 title: Architecture
 weight: 2
 layout: post
+date: '19.08.23'
 ---
 
 Architecture Overview
